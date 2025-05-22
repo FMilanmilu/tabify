@@ -69,6 +69,7 @@ ul li {
     display: block;
   }
 }
+
 @media (max-width: 760px) {
     #img_01, #img_02 {
     margin: 10px;
