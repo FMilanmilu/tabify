@@ -62,15 +62,15 @@ ul li {
 
 
 @media (min-width: 760px) {
-  .kepek {
-    
+    #img_01, #img_02 {
+    width: 40vw;
     padding: 50px;
     margin: 30px;
     display: block;
   }
 }
 @media (max-width: 760px) {
-    .kepek {
+    #img_01, #img_02 {
     margin: 10px;
     display: block;
     align-content: center;
